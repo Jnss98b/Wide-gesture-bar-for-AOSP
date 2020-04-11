@@ -10,6 +10,6 @@ This module will change the Stock Android 10 gesture bar (when using the android
 2. Reboot.
 3. Enjoy!
 
-## Credits to DanGLES3
+## Credits to DanGLES3 for the base module
 - [Telegram](https://t.me/DanGLES3)
 - [Github](https://github.com/DanGLES3/Oxygen-OS-gesture-bar-for-AOSP)
